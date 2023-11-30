@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { UpperCasePipe } from '@angular/common';
 
 @Component({
     selector: 'app-home',
